@@ -321,6 +321,10 @@ The deployment workflow is located at:
 ### 🎯 Budgets
 
 ![SpendSmart Budgets](screenshots/budgets.png)
+
+### 🌙 Dark Mode
+![SpendSmart Dark MOde](screenshots/dark mode.png)
+
 ---
 
 ## 💡 Why SpendSmart?
