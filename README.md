@@ -300,30 +300,27 @@ The deployment workflow is located at:
 
 ### 🔗 Live Demo
 
-> 🚧 **Live demo will be added after GitHub Pages deployment is completed.**
+> 🚀 **[Launch SpendSmart] https://janakid446-hub.github.io/spendsmart-expense-tracker/**
 
 ---
 
 ## 📸 Screenshots
 
-Screenshots of the application can be added here after deployment.
-
 ### 🏠 Dashboard
 
-> Add dashboard screenshot here.
+![SpendSmart Dashboard](screenshots/dashboard.png)
 
 ### 💳 Transactions
 
-> Add transactions screenshot here.
+![SpendSmart Transactions](screenshots/transactions.png)
 
 ### 📈 Analytics
 
-> Add analytics screenshot here.
+![SpendSmart Analytics](screenshots/analytics.png)
 
 ### 🎯 Budgets
 
-> Add budgets screenshot here.
-
+![SpendSmart Budgets](screenshots/budgets.png)
 ---
 
 ## 💡 Why SpendSmart?
@@ -395,21 +392,11 @@ To contribute:
 
 ---
 
-## 📄 License
-
-This project is available for educational and portfolio purposes.
-
----
-
 ## 👨‍💻 Author
 
-**YOUR NAME**
+**Janaki D**
 
 B.Tech — Artificial Intelligence & Data Science
-
-📌 GitHub: `YOUR-GITHUB-USERNAME`
-
-📌 LinkedIn: `YOUR-LINKEDIN-PROFILE`
 
 ---
 
