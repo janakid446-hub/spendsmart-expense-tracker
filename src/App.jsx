@@ -11,7 +11,7 @@ import TransactionFormPage from './pages/TransactionForm';
 export default function App() {
   return (
     <AppProvider>
-      <BrowserRouter>
+      <BrowserRouter basename="/spendsmart-expense-tracker">
         <div className="flex min-h-screen flex-col overflow-x-hidden transition-colors">
           <Navbar />
           <main className="mx-auto w-full max-w-7xl flex-1 px-4 py-6 sm:px-6 lg:px-8">
