@@ -300,7 +300,7 @@ The deployment workflow is located at:
 
 ### 🔗 Live Demo
 
-> 🚀 **[Launch SpendSmart] https://janakid446-hub.github.io/spendsmart-expense-tracker/**
+> 🚀 **[Launch SpendSmart]  https://janakid446-hub.github.io/SpendSmart-expense-tracker/**
 
 ---
 
