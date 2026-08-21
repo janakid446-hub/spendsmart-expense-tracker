@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 import tailwindcss from '@tailwindcss/vite'
 
 export default defineConfig({
-  base: '/spendsmart-expense-tracker/',
+  base: '/SpendSmart-expense-tracker/',
   plugins: [react(), tailwindcss()],
 })
