@@ -213,7 +213,7 @@ Follow the steps below to run SpendSmart locally.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/janakid446-hub/spendsmart-expense-tracker
+git clone https://github.com/janakid446-hub/SpendSmart-expense-tracker
 ```
 
 ### 2️⃣ Navigate to the Project
